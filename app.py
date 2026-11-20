@@ -3,7 +3,7 @@ from rag_engine import OpenSourceRAGTutor, STYLE_PROMPTS
 
 st.set_page_config(
     page_title="Smart Subject Tutor v1.0 (Open-Source RAG)",
-    page_icon="🎓",
+    page_icon=":)",
     layout="wide",
 )
 
